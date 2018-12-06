@@ -5,7 +5,7 @@ using UnityEngine.VR.WSA.Input;
 using UnityEngine.VR;
 using UnityEngine.Networking;
 
-public class gestureDataCollector : MonoBehaviour {
+public class gestureDataExtractor : MonoBehaviour {
 
     public AudioClip audioClip;
     public bool sendGeturesToBackend = false;

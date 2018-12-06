@@ -5,7 +5,7 @@ using System.Text;
 using System.Collections.Generic;
 
 public class RestConsumer {
-    public string url = "http://192.168.178.154:5000/gesture/classify";
+    public string url = "<enterTheUrl";
 
     public IEnumerator SendToServer(string data)  
     {
