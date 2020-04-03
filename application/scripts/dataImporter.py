@@ -12,9 +12,8 @@ import copy
 def read_data_from_file(data_path):
     with open(data_path) as data_file:    
         data = json.load(data_file)
-        gestureList = data["gestureList"]
-        print("imported data of " + repr(len(gestureList)) + " gestures")
-        return gestureList
+        print("imported data of " + repr(len(data)) + " gestures")
+        return data
  
 def get_discrete2D_data(gesture_list, preprocess, augment):
     
