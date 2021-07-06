@@ -1,5 +1,5 @@
 # smARtgestures
-In this repo you can find the code I wrote for my bachelor thesis. The thesis analysed convolutional neural networks for recognizing hand gestures which were performed on the Microsoft HoloLens. 
+In this repo you can find the code I wrote for my bachelor thesis. The thesis analysed convolutional neural networks for recognizing hand gestures which were performed on the Microsoft HoloLens. A more detailed explaination can be found on [kaggle](https://www.kaggle.com/tobirohrer/hololens-gesture-data).
 
 ```
 smARtgesetures
